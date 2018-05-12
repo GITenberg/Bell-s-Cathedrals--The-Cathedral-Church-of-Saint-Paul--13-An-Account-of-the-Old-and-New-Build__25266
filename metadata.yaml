@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '31197'
     url: http://www.gutenberg.org/2009/agents/31197
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25266#Bell-s-Cathedrals--The-Cathedral-Church-of-Saint-Paul--13-An-Account-of-the-Old-and-New-Build_
 gutenberg_bookshelf: United Kingdom
 gutenberg_issued: '2008-04-30'
 gutenberg_type: Text
