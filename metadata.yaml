@@ -1,0 +1,28 @@
+_repo: Bell-s-Cathedrals--The-Cathedral-Church-of-Saint-Paul--13-An-Account-of-the-Old-and-New-Build__25266
+_version: 0.1.0
+alternative_title: "Bell's Cathedrals: The Cathedral Church of St. Paul\r\nAn Account\
+  \ of the Old and New Buildings with a Short Historical Sketch"
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dimock, Arthur
+    gutenberg_agent_id: '31197'
+    url: http://www.gutenberg.org/2009/agents/31197
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2008-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25266'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NA'
+- !lcsh 'St. Paul''s Cathedral (London, England)'
+title: "Bell's Cathedrals: The Cathedral Church of Saint Paul\r\nAn Account of the\
+  \ Old and New Buildings with a Short Historical Sketch"
+url: http://www.gutenberg.org/ebooks/25266
